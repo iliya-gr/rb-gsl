@@ -1,2 +1,8 @@
 pkg/
 html/created.rid
+.DS_Store
+Gemfile.lock
+*.o
+*.log
+ext/extconf.h
+ext/Makefile
