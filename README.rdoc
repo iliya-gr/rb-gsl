@@ -1,0 +1,10 @@
+= Ruby/GSL, a ruby interface to GSL (GNU Scientific library)
+
+Fork of Ruby/GSL (http://rubyforge.org/projects/rb-gsl/), authored by Yoshiki Tsunesada and David MacMahon, with fixes and refactored build.
+
+== Licence
+
+Ruby/GSL is free software: you can redistribute it and/or modify it
+under the terms of the GNU General Public License.
+This library is distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY.
