@@ -8,7 +8,7 @@ $-w = true
 #gem 'gsl', '=1.10.3'
 require 'irb/xmp'
 require 'gsl'
-puts "Using rb-gsl #{GSL::RB_GSL_VERSION}"
+puts "Using rb-gsl #{GSL::VERSION}"
 
 # Seed random number generator for repeatable results
 srand(?r-?b+?g-?s-?l)

@@ -257,13 +257,12 @@
 #
 # == {}[link:index.html"name="9] Module Constants
 # ---
-# * GSL::VERSION
+# * GSL::GSL_VERSION
 #
 #   GSL version
 #
 # ---
-# * GSL::RB_GSL_VERSION
-# * GSL::RUBY_GSL_VERSION
+# * GSL::VERSION
 #
 #   Ruby/GSL version
 #

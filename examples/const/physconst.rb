@@ -71,7 +71,7 @@ def mainmenu
   i = 1
   Curses.clear
   W.setpos(0, 1)
-  W.addstr("  GSL-#{GSL::VERSION} Physical Constants:\n")
+  W.addstr("  GSL-#{GSL::GSL_VERSION} Physical Constants:\n")
   MAIN_MENU[1..-1].each do |str|
     W.setpos(i, 1)
     W.addstr(sprintf("  [%2d] %s\n", i, str))
