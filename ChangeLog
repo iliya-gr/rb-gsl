@@ -1,3 +1,7 @@
+Tue Feb 5 15:40:38 2013 +0400
+  * Ruby/GSL 1.14.8
+    * Refactored gem build
+
 Sat Feb 26 08:18:45 PST 2011
   * Ruby/GSL 1.14.7
     * Fix conversion of non-DFLOAT NArray to GSL::Vector and

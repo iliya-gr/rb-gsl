@@ -8,10 +8,10 @@ Gem::Specification.new do |gem|
   gem.name              = "gsl"
   gem.version           = GSL::VERSION
   gem.authors           = ['Yoshiki Tsunesada', 'David MacMahon']
-  gem.email             = ['y-tsunesada@mm.em-net.ne.jp']
+  gem.email             = ['iliya.gr@gmail.com']
   gem.description       = %q{Ruby/GSL is a Ruby interface to the GNU Scientific Library, for numerical computing with Ruby}
   gem.summary           = %q{Ruby interface to GNU Scientific Library}
-  gem.homepage          = 'http://rb-gsl.rubyforge.org/'
+  gem.homepage          = 'https://github.com/iliya-gr/rb-gsl'
   gem.rubyforge_project = 'rb-gsl' 
 
   gem.files             = `git ls-files`.split($/)

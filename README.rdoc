@@ -2,6 +2,22 @@
 
 Fork of Ruby/GSL (http://rubyforge.org/projects/rb-gsl/), authored by Yoshiki Tsunesada and David MacMahon, with fixes and refactored build.
 
+== Installation
+
+From source:
+
+  git clone git://github.com/iliya-gr/rb-gsl.git
+  cd rb-gsl
+  rake install
+
+Using Gemfile:
+
+  gem 'gsl', :git => 'git://github.com/iliya-gr/rb-gsl.git'
+
+== Requirments
+
+Ruby/GSL requires GSL GNU Scientific library (http://www.gnu.org/software/gsl/) to be installed.
+
 == Licence
 
 Ruby/GSL is free software: you can redistribute it and/or modify it
